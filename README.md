@@ -1,5 +1,5 @@
 # Ketamine-CRT
-Ketamine is a 64x architecture no CRT (C Runtime Library Files) base which you can use in your dynamic link library. Ketamine is a 64x architecture no CRT (C Runtime Library Files) base which you can use in your dynamic link library. The base itself comes with four functions including GetModuleBase, GetModuleExport, strcmp and strlen.
+Ketamine is a 64x architecture no CRT (C Runtime Library Files) base which you can use in your dynamic link library. The base itself comes with four functions including GetModuleBase, GetModuleExport, strcmp and strlen.
 
 Before use you must set the project properties:
 
