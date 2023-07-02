@@ -3,7 +3,7 @@ Ketamine is a 64x architecture no CRT (C Runtime Library Files) base which you c
 
 Before use you must set the project properties:
 
-Project Properties -> C/C++ -> Precompiled Headers = Not Using Precompiled Headers
+Project Properties -> C/C++ -> Precompiled Headers = Not Using Precompiled Headers                                   
 Project Properties -> Linker -> Input -> Ignore All Default Libraries = Yes (/NODEFAULTLIB)
 
 Next to make the asm file show in the linker you must enable masm:
